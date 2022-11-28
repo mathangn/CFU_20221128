@@ -1,0 +1,103 @@
+body {
+  background: white;
+  font-family: Barlow;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+}
+.fwlogo{
+  width: 250px;
+}
+.home{
+  font-size: 25px;
+  text-align: right;
+  display: block;
+  margin-top: -65px;
+  margin-bottom: 40px;
+}
+b{
+  font-size: 25px;
+}
+.academy{
+  margin-left: 50px;
+}
+.academy1{
+  margin-right: 400px;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+#sts{
+  text-align: center;
+  margin-top: 2em;
+  font-size: 3em;
+}
+#sts1{
+  text-align: center;
+  font-size: 24px;
+}
+#classimg{
+  width: 50em;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+#sts3{
+  text-align: center;
+  margin-top: 40px;
+}
+#sts4{
+  font-size: 20px;
+  text-align: center;
+}
+#header{
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+}
+#classimg2{
+  width: 500px;
+}
+#header2{
+  background-color: rgb(0, 0, 0);
+  color: white;
+}
+#header2 h1{
+  text-align: center;
+  font-size: 40px;
+}
+#header3{
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 10em;
+}
+#header3 ul{
+  font-size: 28px;
+}
+#sts5{
+  font-size: 40px;
+}
+#classimg3{
+  width: 800px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 100px;
+}
+#sts6{
+  font-size: 40px;
+  text-align: center;
+}
+#header4{
+  display: flex;
+  justify-content: center;
+  margin-left: 10px;
+  margin-bottom: 50px;
+}
+#header4 img{
+  width: 200px;
+}
